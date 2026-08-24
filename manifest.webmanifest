@@ -1,0 +1,26 @@
+{
+  "name": "벽지 생성기",
+  "short_name": "벽지생성기",
+  "description": "닉네임과 후원 내역만 입력하면 투명 배경 PNG 벽지를 즉시 만들어 줍니다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f9",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

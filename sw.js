@@ -3,7 +3,7 @@
    - 아이콘·이미지 등 같은 출처 정적 파일은 캐시 우선
    - 웹폰트(CDN)는 캐시 우선 — 한 번 방문하면 오프라인에서도 글꼴이 유지된다
    본체 index.html 의 VERSION 을 올릴 때 아래 CACHE 도 같이 올려주세요. */
-const CACHE = 'wallpaper-maker-v1.5';
+const CACHE = 'wallpaper-maker-v1.6';
 
 const CORE = [
     './',
